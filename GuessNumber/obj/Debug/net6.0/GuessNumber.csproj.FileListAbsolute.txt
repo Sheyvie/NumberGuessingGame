@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\bin\Debug\net6.0\GuessNumber.exe
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\bin\Debug\net6.0\GuessNumber.deps.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\bin\Debug\net6.0\GuessNumber.runtimeconfig.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\bin\Debug\net6.0\GuessNumber.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\bin\Debug\net6.0\GuessNumber.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\refint\GuessNumber.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\GuessNumber.genruntimeconfig.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\NumberGuessingName\GuessNumber\obj\Debug\net6.0\ref\GuessNumber.dll
